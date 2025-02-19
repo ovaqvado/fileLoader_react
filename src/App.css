@@ -12,6 +12,16 @@ body {
 	min-height: 100vh;
 }
 
+div,
+h1,
+h2,
+p,
+img,
+button {
+	margin: 0;
+	padding: 0;
+}
+
 .App {
 	display: flex;
 	flex-direction: column;
